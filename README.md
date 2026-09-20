@@ -1,6 +1,7 @@
 ## App Screenshot
 
-![Movie Recommender App](./Screenshot%202026-09-20%20142605.png)
+![Movie Recommender App](<img width="910" height="675" alt="Screenshot 2026-09-20 142605" src="https://github.com/user-attachments/assets/5b196961-62f7-479b-967e-17be21d239eb" />
+)
 
 This is a content-based movie recommendation system
 that recommends movies based on the movie selected by
