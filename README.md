@@ -1,6 +1,6 @@
-## 📸 App Screenshot
+## App Screenshot
 
-![Movie Recommendation System](Screenshot%202026-09-18%20113830.png)
+![Movie Recommender App](./Screenshot%202026-09-20%20142605.png)
 
 This is a content-based movie recommendation system
 that recommends movies based on the movie selected by
