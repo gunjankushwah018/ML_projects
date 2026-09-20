@@ -1,9 +1,8 @@
-#  Movie Recommendation System
+## Movie Recommender System
 
-## 📸 App Screenshot
+### 📸 App Screenshot
 
-![Movie Recommendation System](Screenshot 2026-09-20 142605.png)
-
+![Movie Recommendation System](Screenshot%202026-09-20%20142605.png)
 
 This is a content-based movie recommendation system
 that recommends movies based on the movie selected by
