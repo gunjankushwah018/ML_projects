@@ -16,7 +16,7 @@ deployed using Streamlit.
 
 You can try the application here:
 
-[Click here to use Movie Recommender](https://mlprojects-mfzib58pe3kdyzaysgc2ny.streamlit.app/)
+[Click here to use Movie Recommender](https://mlprojects-sghvm9dztcx2g5zd8nyxn9.streamlit.app/)
 
 ##  About the Project
 
