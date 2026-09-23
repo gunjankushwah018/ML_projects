@@ -22,9 +22,12 @@ def recommend(movie):
         recommended_movies_posters.append(fetch_poster(movie_id))
     return recommended_movies, recommended_movies_posters
 
-similarity = pickle.load(open('similarity.pkl', 'rb'))
+import os
 
-movies_dict = pickle.load(open('movie_dict.pkl', 'rb'))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+movie_dict = pickle.load(open(os.path.join(BASE_DIR, 'movie_dict.pkl'), 'rb'))
+similarity = pickle.load(open(os.path.join(BASE_DIR, 'similarity.pkl'), 'rb'))
 movies = pd.DataFrame(movies_dict)
 
 st.title('Movie Recommender System')
