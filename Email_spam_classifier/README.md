@@ -10,7 +10,7 @@ The project demonstrates a complete machine learning workflow, including data pr
 
 Try the deployed application:
 
-[Open Email Spam Classifier](https://mlprojects-xc4btsqjufmbcm5hkpkemn.streamlit.app/)
+[Open Email Spam Classifier](https://mlprojects-kzqfqeceg93dztblnm7hwm.streamlit.app/)
 
 ---
 
