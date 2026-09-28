@@ -1,6 +1,6 @@
 # Email Spam Classifier
 
-An end-to-end Machine Learning and NLP project that classifies email and SMS messages as **Spam** or **Ham (Not Spam)** using **TF-IDF Vectorization** and **Multinomial Naive Bayes**.
+An end-to-end Machine Learning project that classifies email and SMS messages as **Spam** or **Ham (Not Spam)** using **TF-IDF Vectorization** and **Multinomial Naive Bayes**.
 
 The project demonstrates a complete machine learning workflow, including data preprocessing, text cleaning, feature extraction, model training, model evaluation, model serialization, and deployment using Streamlit.
 
